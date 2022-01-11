@@ -1,6 +1,6 @@
 *{
     margin:0px;
-    padding:0px;
+    padding:10px;
 }
 
 body{
@@ -13,6 +13,7 @@ h1{
     font-size: 63px;
     font-family: 'Times New Roman', Times, serif;
     margin-bottom: 24px;
+    margin-top: 24px;
 }
 h2{
     font-size: 36px;
@@ -24,7 +25,7 @@ h3{
     font-size: 10px;
     font-family: 'Times New Roman', Times, serif;
     margin-bottom: 15px;
-    margin-left: 80%;
+    margin-left: 90%;
 }
 
 h4{
@@ -65,7 +66,6 @@ ul{
     margin-left: 10%;
     margin-bottom: 15px;
     margin-top: 15px;
-    margin-block-end: 5%;
     color:rgb(216, 33, 33)
 
 }
